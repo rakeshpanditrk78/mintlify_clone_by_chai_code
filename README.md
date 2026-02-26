@@ -23,8 +23,9 @@ CSS3 Flexbox for layout
 CSS Grid Smooth transitions/hover effects improve web development skills.
 
 
-<img width="1240" height="4996" alt="image" src="https://github.com/user-attachments/assets/af3cc71b-d8d6-4e87-83de-b4e00feb5ad0" />
 
+
+![Screenshot_26-2-2026_22394_localhost](https://github.com/user-attachments/assets/d7e19751-c951-4e46-9255-69271bef46c6)
 
 
 
